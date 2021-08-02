@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketEx", "SocketEx\SocketEx.csproj", "{D0F9CAB2-525B-43BC-B704-60E236E80937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C5A660AE-488D-423E-BF5A-6C9B02322328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F9CAB2-525B-43BC-B704-60E236E80937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F9CAB2-525B-43BC-B704-60E236E80937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F9CAB2-525B-43BC-B704-60E236E80937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F9CAB2-525B-43BC-B704-60E236E80937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A660AE-488D-423E-BF5A-6C9B02322328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A660AE-488D-423E-BF5A-6C9B02322328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A660AE-488D-423E-BF5A-6C9B02322328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A660AE-488D-423E-BF5A-6C9B02322328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5501D6DF-7953-45CF-ADAB-F01758EA9ED6}
+	EndGlobalSection
+EndGlobal
